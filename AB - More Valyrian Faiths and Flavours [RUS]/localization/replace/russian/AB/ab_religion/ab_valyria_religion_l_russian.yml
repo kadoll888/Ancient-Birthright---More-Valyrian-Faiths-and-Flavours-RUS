@@ -1,0 +1,111 @@
+﻿l_russian:
+
+#Valyrian faith addon#
+
+tenet_lokiria_legacy_desc:0 "Валирийцы — раса воинов. С времён былого Вольного Владения наш народ покорял и подчинял низшие расы Эссоса по праву огня и крови. Если мы хотим вернуть былую славу нации, нужно искоренить слабость из наших тел."
+tenet_lokiria_legacy_name:0 "Воины Локирии"
+
+tenet_blood_sorcerer_desc:0 "Валирия всегда славилась могущественными колдунами и учёными. Наша слава зиждется не на банальных завоеваниях, а на подчинении немощных умов. Вернуть величие — значит превзойти всех в разуме и духе."
+tenet_blood_sorcerer_name:0 "Наследие Царства Колдунов"
+
+tenet_blood_purity_desc:0 "Валирийцы — от природы выше всех остальных. Кровь дракона делает нас ближе к богам, чем к людям. Мы не можем допустить, чтобы это священное благословение было осквернено."
+tenet_blood_purity_name:0 "Кровь Дракона"
+
+tenet_aegon_rules_desc:0 "Эйгон Завоеватель добился невозможного — объединил Семь Королевств и создал величайшее королевство со времён Валирии. Его наследие живёт в нас, и мы не дадим ему угаснуть. Драконы будут править Вестеросом — теперь и навсегда."
+tenet_aegon_rules_name:0 "Валар Дохаэрис"
+
+tenet_valar_morghulis_desc:0 "Пусть нас называют жестокими. Пусть зовут тиранами. Даже монстрами. Но разве не в этом суть жизни? Сильный побеждает слабого. Безжалостные поднимаются вверх, а добрые гниют в грязи. Только тот, кто принял эту истину, достоин власти."
+tenet_valar_morghulis_name:0 "Валар Моргулис"
+
+tenet_scions_desc:0 "Мудрость древней Валирии многогранна. Те, кто наделён даром пророчества, говорят голосами наших славных предков. Мы должны внимать."
+tenet_scions_name:0 "Потомки Судьбы"
+
+tenet_first_daughter_desc:0 "Мы — последние истинные потомки Валирии. Хранить эту родословную — наш священный долг, пока не настанет день, когда Вольное Владение восстанет вновь."
+tenet_first_daughter_name:0 "Первая Дочь Владения"
+
+tenet_good_buisness_desc:0 "Бескрайние моря Эссоса полны забытых сокровищ и древней мудрости. Завоёвывать их во имя нашего Господа — наш священный долг… и возможность неприлично разбогатеть."
+tenet_good_buisness_name:0 "Просто Бизнес"
+
+tenet_anti_magic_desc:0 "Не забывай боль и ужас, принесённые Погибелью. Кара богов жестока, но справедлива. Они поразили тех, кто дерзнул приравнять себя к ним. Мы тяжко согрешили — и заплатили огнём и кровью. Пусть магия в любой своей мерзкой форме исчезнет навсегда."
+tenet_anti_magic_name:0 "Никогда не забывай"
+
+tenet_priest_council_desc:0 "Пока прочие спорят о своей 'ортодоксии', мы нашли истину в компромиссе. Наши жрецы собираются в совет Четырнадцати, чтобы хранить гармонию и карать тех, кто ей угрожает."
+tenet_priest_council_name:0 "Совет Жрецов"
+
+tenet_beauty_worship_desc:0 "Нет высшей цели, чем стремление к красоте. Разве не наша внешность — наглядное доказательство валирийского происхождения? Те, кто наделён сиянием древней Валирии, достойны поклонения."
+tenet_beauty_worship_name:0 "Культ Красоты"
+
+tenet_imperator_desc:0 "Воля императора — закон. Его власть дарована самими богами, и он вправе судить нас за наши грехи."
+tenet_imperator_name:0 "Божественность Императора"
+
+tenet_bobby_b_desc:0 "НА КОЛЕНИ, УБЛЮДКИ!"
+tenet_bobby_b_name:0 "Господство Бобби Б."
+
+the_seven_targaryen:0 "Таргариенская Вера в Семерых"
+the_seven_targaryen_desc:0 "Когда Эйгон Завоеватель объединил Семь Королевств, он и его потомки приняли Веру в Семерых. Однако их способ поклонения долго отличался от андалов — особенно почитанием драконов. Только после смерти драконов различия сошли на нет."
+the_seven_targaryen_adj:0 "Таргариенская Вера в Семерых"
+the_seven_targaryen_adherent:0 "Поклонник Семерых-Таргариенец"
+the_seven_targaryen_adherent_plural:0 "Поклонники Семерых-Таргариенцы"
+
+volantene_faith:0 "Тала хен Перзис"
+volantene_faith_adj:0 "Тала хен Перзис"
+volantene_faith_adherent:0 "Поклонник Валирийских Богов"
+volantene_faith_adherent_plural:0 "Поклонники Валирийских Богов"
+volantene_faith_desc:0 "'Тала хен Перзис' или 'Дочь Пламени' — валирийское верование, сохранившееся среди волантийской знати и в глуши. Под влиянием р’глоризма уделяет особое внимание огненным ритуалам."
+
+covenant:0 "Завет Курящего Моря"
+covenant_adj:0 "Завет"
+covenant_adherent:0 "Моряк Господа Света"
+covenant_adherent_plural:0 "Моряки Господа Света"
+covenant_desc:0 "Завет Курящего Моря — странная секта р’глоризма. Возникла в порту Элирия, где её последователи якобы несут свет по всем морям… хотя на деле это выглядит скорее как прикрытие для мародёрства и наживы."
+
+mantaryan:0 "Мантарианство"
+mantaryan_adj:0 "Мантарианские Испытания"
+mantaryan_adherent:0 "Верный Мантарианец"
+mantaryan_adherent_plural:0 "Верные Мантарианцы"
+mantaryan_desc:0 "После Погибели Валирии религии и культуры были уничтожены. Особенно сильно это сказалось на Мантари. Столетия страданий сделали местных яростными противниками магии. Они верят, что боги покарали предков за богохульство, но это также испытание, через которое можно искупить вину."
+
+maegor_religion:0 "Мейгоризм"
+maegor_religion_adj:0 "Мейгоризм"
+maegor_religion_desc:0 "Валирийская ересь, исповедуемая лоялистами Мейгора"
+maegor:0 "Мейгоризм"
+maegor_adj:0 "Мейгоризм"
+maegor_adherent:0 "Лоялист"
+maegor_adherent_plural:0 "Лоялисты"
+maegor_desc:0 "Хотя Мейгор пал, у него остались верные. Они собрались в тайные ковены и скорбят о падении 'валирийской чистоты'. Уверены, что Мейгора убили слуги Семерых, и теперь стремятся стереть андальских богов с лица земли. Верил ли Мейгор в это сам — неясно. Однако его последователи оказались довольно упорными."
+
+imperial_valyrian:0 "Герон ēлȳр Джаедарис"
+imperial_valyrian_adj:0 "Имперская Доктрина"
+imperial_valyrian_adherent:0 "Последователь Имперской Доктрины"
+imperial_valyrian_adherent_plural:0 "Последователи Имперской Доктрины"
+imperial_valyrian_desc:0 "'Герон ēлȳр Джаедарис' — 'Путь Первого Императора' — вера конца Вольного Владения. Аурион, устав от раздоров среди драконьих лордов, провозгласил реформу: лучший из них должен править по божественному мандату как Джейдарис. Он исчез после Погибели, и теперь его считают мучеником. Верующие ждут нового Джейдариса, который восстановит Валирию."
+
+agot_broken_crown_doctrine_name:0 "Сломанная Корона"
+agot_broken_crown_doctrine_desc:0 "Никто не может носить императорский титул, пока Валирия не будет отвоёвана праведным правителем."
+agot_broken_crown_name:0 "$agot_broken_crown_doctrine_name$"
+
+agot_maegors_revenge_doctrine_name:0 "Смерть Семерым!"
+agot_maegors_revenge_doctrine_desc:0 "Андалы и их ублюдочные боги заплатят. Никто не уйдёт!"
+agot_maegors_revenge_name:0 "$agot_maegors_revenge_doctrine_name$"
+doctrine_parameter_hostility_override_the_seven_hostility_doctrine:0 "Считает всех $the_seven_religion_adherent_plural$ — $hostility_evil_tooltippable$"
+
+agot_imperial_zealotry_doctrine_name:0 "Имперское Рвение"
+agot_imperial_zealotry_doctrine_desc:0 "Никто не встанет на пути нашей святой миссии. Мощь Валирии очистит этот мир."
+agot_imperial_zealotry_name:0 "$agot_imperial_zealotry_doctrine_name$"
+doctrine_parameter_hostility_override_western_essosi_hostility_doctrine:0 "Считает религии западного Эссоса — $hostility_hostile_tooltippable$"
+doctrine_parameter_hostility_override_sunset_hostility_doctrine:0 "Считает религии Вестероса — $hostility_hostile_tooltippable$"
+doctrine_parameter_hostility_override_grasslands_hostility_doctrine:0 "Считает дотракийцев — $hostility_hostile_tooltippable$"
+doctrine_parameter_hostility_override_azorian_hostility_doctrine:0 "Считает последователей Р’глора — $hostility_hostile_tooltippable$"
+
+doctrine_parameter_has_access_to_trials_by_combat:0 "[crimes|E], за которые нельзя [imprison|E], и если преступник не ваш [liege|E], можно решить через [single_combat_fight|E]"
+doctrine_parameter_can_duel_rivals:0 "$UNLOCKS_ABILITY_TO_DUEL_RIVALS$"
+doctrine_parameter_peasant_and_populist_factions_less_common:0 "[peasant_factions|E] и [popular_factions|E] других [culture|E] встречаются реже"
+
+imperial_valyrian_religious_head_title:0 "Джейдарис"
+imperial_valyrian_religious_head_title_name:0 "Трон Дракона"
+
+k_dragon_throne:0 "Трон Дракона"
+
+fire_and_blood_blocked_rel:0 "Открывается через #bold решение «Огонь и Кровь»#!"
+
+doctrine_requires_temporal_head_of_faith:0 "Требуется светская [GetFaithDoctrine('doctrine_temporal_head').GetBaseName] глава веры"

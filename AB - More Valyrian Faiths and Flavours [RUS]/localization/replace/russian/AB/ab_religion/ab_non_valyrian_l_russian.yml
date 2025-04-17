@@ -1,0 +1,15 @@
+﻿l_russian:
+
+#Веры#
+
+#Догматы#
+
+tenet_dornish_resilience_desc:0 "Многие пытались нас завоевать — и многие на этом погибли. Мы — мужчины и женщины Дорна, и мы с радостью будем сражаться и умирать, защищая наш образ жизни. Даже против армии драконов!"
+tenet_dornish_resilience_name:0 "Выносливость Дорнийцев"
+
+agot_dornish_way_doctrine_name:0 "Дорнийский Путь"
+agot_dornish_way_doctrine_desc:0 "У нас свой способ поклонения богам. Кому-то он может не нравиться — но нам плевать на их одобрение."
+agot_dornish_way_name:0 "$agot_dornish_way_doctrine_name$"
+
+doctrine_parameter_harder_to_convert_character_faith:0 "[персонажи|E] с меньшей вероятностью примут обращение"
+doctrine_parameter_harder_to_convert_county_faith:0 "Сопротивление обращению графства: #P +30%#!"

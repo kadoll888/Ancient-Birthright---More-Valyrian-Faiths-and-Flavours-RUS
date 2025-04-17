@@ -1,0 +1,22 @@
+﻿l_russian:
+
+  trait_beauty_good_exotic:0 "Валирийское Благородство"
+
+  trait_exotic_beauty_good_1:0 "Отголосок Валирийской Красоты"
+  trait_exotic_beauty_good_1_desc:0 "У этого персонажа прослеживаются валирийские черты, намекающие на благородное происхождение."
+  trait_exotic_beauty_good_1_character_desc:0 "У [ROOT.GetCharacter.GetFirstNameNoTooltip] прослеживаются валирийские черты, намекающие на благородное происхождение."
+
+  trait_exotic_beauty_good_2:0 "Прикосновение Валирийской Красоты"
+  trait_exotic_beauty_good_male_2:0 "Прикосновение Валирийской Красоты"
+  trait_exotic_beauty_good_female_2:0 "Прикосновение Валирийской Красоты"
+  trait_exotic_beauty_good_2_desc:0 "Этот персонаж одарён валирийской внешностью, придающей ему благородную и величественную ауру."
+  trait_exotic_beauty_good_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] одарён(а) валирийской внешностью, придающей [ROOT.GetCharacter.GetHerHim|L] благородную и величественную ауру."
+
+  trait_exotic_beauty_good_3:0 "Валирийская Красота"
+  trait_exotic_beauty_good_3_desc:0 "Эфемерная, завораживающая и ослепительная — этот персонаж воплощает собой идеал Валирийского Благородства."
+  trait_exotic_beauty_good_3_character_desc:0 "Эфемерная, завораживающая и ослепительная — красота [ROOT.GetCharacter.GetFirstNameNoTooltip] делает [ROOT.GetCharacter.GetHerHim|L] воплощением Валирийского Благородства."
+
+  trait_beauty_good_male_4:0 "Облик Красоты Рассвета"
+  trait_beauty_good_female_4:0 "Облик Красоты Рассвета"
+  trait_beauty_good_4_desc:0 "Их гипнотическая грация источает божественную ауру, приковывая взгляды всех, кто осмелится смотреть. Если такая сияющая красота и существовала прежде, то лишь в эпоху, затерянную во времени."
+  trait_beauty_good_4_character_desc:0 "Гипнотическая грация [ROOT.GetCharacter.GetFirstNameNoTooltip] источает божественную ауру, приковывая взгляды всех, кто осмелится смотреть на [ROOT.GetCharacter.GetHerHim|L]. Если такая сияющая красота и существовала прежде, то лишь в эпоху, затерянную во времени."

@@ -1,0 +1,8 @@
+﻿l_english:
+ trait_born_amongst_the_flames:0 "Born Amongst the Flames"
+ trait_born_amongst_the_flames_desc:0 "This character was born in the Obsidian chambers of one of the last remaining Valyrian volcanoes, marking them as high nobility."
+ trait_born_amongst_the_flames_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was born in the Obsidian chambers of one of the last remaining Valyrian volcanoes, marking [ROOT.Char.GetHerHim|L] as high nobility."
+ 
+ trait_dragon_emperor:0 "Jaedārys"
+ trait_dragon_emperor_desc:0 "This character is the current holder of the Valyrian imperial title, wielding a power the likes of which hasn't been seen on this earth since the Dawn Age."
+ trait_dragon_emperor_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the current holder of the Valyrian imperial title, wielding a power the likes of which hasn't been seen on this earth since the Dawn Age."   

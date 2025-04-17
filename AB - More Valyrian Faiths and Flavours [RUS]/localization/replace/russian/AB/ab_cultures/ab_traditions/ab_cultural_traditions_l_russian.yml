@@ -1,0 +1,51 @@
+﻿l_russian:
+
+#AB - дополнение#
+
+tradition_ancient_birthright_name:0 "Возвращение Древнего Наследия"
+tradition_ancient_birthright_desc:1 "Мы достигли того, что считалось невозможным. Мы вернули Валирию из-под власти Рока, который когда-то её погубил. Наш древний дом снова стоит во всей своей славе, и мы позаботимся о том, чтобы все, кто в нас сомневался, запомнили, что драконы — истинные властители этой земли."
+not_valyrian_empire_holder:0 "Вы #bold не #! владеете титулом [GetTitleByKey('e_valyria').GetName]"
+
+tradition_warrior_kingdom_name:0 "Восхождение Королевства Воинов"
+tradition_warrior_kingdom_desc:1 "Локирия храбра, Локирия сильна. Пусть все, кто стремится к нашим берегам, знают это. Мы — авангард Валирии, и ради защиты нашей святой родины мы готовы сразиться даже с Моргулем."
+not_king_of_lokiria:0 "Вы #bold не #! владеете титулом [GetTitleByKey('k_lokiria').GetName] или [GetTitleByKey('e_valyria').GetName]"
+
+tradition_narrow_sea_name:0 "Властелины Узкого Моря"
+tradition_narrow_sea_desc:1 "Мы прочно утвердились в важнейшем морском торговом пути к западу от Валирии. С Дрифтмарком #italic и #! Ступенями в наших руках наш народ действительно стал властелинами Узкого Моря."
+not_stepstones_and_driftmark:0 "Вы должны владеть и [GetTitleByKey('d_driftmark').GetName] #bold и #! [GetTitleByKey('k_the_stepstones').GetName]"
+
+tradition_par_excellence_name:0 "Аристократия во Всём"
+tradition_par_excellence_desc:1 "Кровь Старой Валирии сильна в нашем народе. Одарённые благородными чертами древних Драконьих Лордов, наши люди излучают неземную красоту, ставящую в тень большинство других рас."
+too_ugly:0 "Вы должны обладать хотя бы #bold [GetTrait('beauty_good_2').GetName( GetNullCharacter )] #! или иметь [GetTrait('exotic_beauty_good_2').GetName( GetNullCharacter )]"
+
+tradition_rule_of_the_dragon_emperor_name:0 "Возрождённая Валирия"
+tradition_rule_of_the_dragon_emperor_desc:1 "Из пепла восстала новая Валирия — сильнее, лучше и отважнее, чем когда-либо. Наш народ возложил свою веру на Джайдариса и его святую миссию. Скоро всё утраченноe будет возвращено, и низшие расы вновь узнают своё место."
+fire_and_blood_blocked:0 "Это становится доступным через #bold решение 'Огонь и Кровь'#!"
+
+culture_parameter_arrogant_trait_more_common:0 "[GetTrait('arrogant').GetName( GetNullCharacter )] [trait|E] встречается чаще"
+culture_parameter_authoritative_trait_more_common:0 "[GetTrait('authoritative').GetName( GetNullCharacter )] [trait|E] встречается чаще"
+culture_parameter_unlock_exotic_beauty:0 "Дети могут родиться с [GetTrait('exotic_beauty_good_1').GetName( GetNullCharacter )] [trait|E] и, реже, даже #bold более высокими #! уровнями"
+culture_parameter_lustful_trait_more_common:0 "[GetTrait('lustful').GetName( GetNullCharacter )] [trait|E] встречается чаще"
+culture_parameter_lustful_trait_gives_bonuses:0 "[GetTrait('lustful').GetName( GetNullCharacter )] [trait|E] даёт дополнительные бонусы"
+culture_parameter_reaver_trait_more_common:0 "[GetTrait('reaver').GetName( GetNullCharacter )] [trait|E] встречается чаще"
+culture_parameter_reaver_trait_bonuses:0 "[GetTrait('reaver').GetName( GetNullCharacter )] [trait|E] даёт дополнительные бонусы"
+culture_parameter_children_can_be_born_amongst_the_flames:0 "Дети могут родиться с [GetTrait('born_amongst_the_flames').GetName( GetNullCharacter )] [trait|E], если их родители правят из одной из #italic 5 оставшихся Огненных точек Валирии#!"
+
+max_seduce_schemes_add:0 "Максимальное количество [schemes|E] 'Соблазнение'"
+
+culture_parameter_brave_trait_gives_bonuses: "Черта [GetTrait('brave').GetName( GetNullCharacter )] [trait|E] даёт дополнительные бонусы"
+
+#МАА
+
+culture_parameter_unlock_maa_lokiria_veterans:0 "Можно нанимать [GetMaA('lokiria_veterans').GetName] в качестве [men_at_arms|E]"
+culture_parameter_unlock_maa_valyrian_raiders:0 "Можно нанимать [GetMaA('valyrian_raiders').GetName] в качестве [men_at_arms|E]"
+culture_parameter_unlock_maa_valyrian_immortals:0 "Можно нанимать [GetMaA('valyrian_immortals').GetName] в качестве [men_at_arms|E]"
+
+lokiria_veterans:0 "Ветераны Локирии"
+lokiria_veterans_flavor:0 "#F Бойтесь старика в профессии, где большинство умирает молодыми#"
+
+valyrian_raiders:0 "Валирийские Корсары"
+valyrian_raiders_flavor:0 "#F Закалённые в битвах и хорошо экипированные, эти корсары смеются в лицо смерти#"
+
+valyrian_immortals:0 "Наморгулилари"
+valyrian_immortals_flavor:0 "#F Наморгулилари, или 'Бессмертные', — элита валирийской армии. Им поручено защищать императорскую семью, и они служат с честью и преданностью#"

@@ -1,0 +1,8 @@
+﻿l_russian:
+ trait_born_amongst_the_flames:0 "Рождённый среди пламени"
+ trait_born_amongst_the_flames_desc:0 "Этот персонаж родился в обсидиановых чертогах одного из последних действующих валирийских вулканов, что отмечает его как высшую знать."
+ trait_born_amongst_the_flames_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] родился в обсидиановых чертогах одного из последних действующих валирийских вулканов, что отмечает [ROOT.Char.GetHerHim|L] как высшую знать."
+
+ trait_dragon_emperor:0 "Джэйдарис"
+ trait_dragon_emperor_desc:0 "Этот персонаж — текущий обладатель императорского титула Валирии, обладающий мощью, которой мир не видел со времён Эпохи Рассвета."
+ trait_dragon_emperor_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] — текущий обладатель императорского титула Валирии, обладающий мощью, которой мир не видел со времён Эпохи Рассвета."
